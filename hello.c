@@ -5,6 +5,8 @@
  * Print name and major with a collaborator 
  * 
  */
+#include <stdlib.h>
+#include<stiod.h>
  int main (int argc, char **argv) {
      
      printf("Hello World, My name is Ngan Nguyen!\n");
