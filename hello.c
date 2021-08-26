@@ -13,7 +13,7 @@
      printf("My major is Computer Science.\n");
   
      prinf("Hello World, My name is Miranda Lopez!\n");
-     print("My major is Computer Science.\n");
+     printf("My major is Computer Science.\n");
      
      return 0;
  }
