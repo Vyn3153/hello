@@ -1,5 +1,5 @@
 /**
- * Author: Ngan Nguyen 
+ * Author: Ngan Nguyen  and Miranda 
  * Date: 2021/08/26
  *
  * Print name and major with a collaborator 
