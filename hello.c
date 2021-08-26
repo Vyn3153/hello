@@ -1,6 +1,10 @@
-#include <stdlib.h>
-#include <stdio.h>
- 
+/**
+ * Author: Ngan Nguyen 
+ * Date: 2021/08/26
+ *
+ * Print name and major with a collaborator 
+ * 
+ */
  int main (int argc, char **argv) {
      
      printf("Hello World, My name is Ngan Nguyen!\n");
