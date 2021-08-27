@@ -1,8 +1,8 @@
 /**
  * Author: Ngan Nguyen 
- *Date: 2021/08/26
+ * Date: 2021/08/26
  *
- *Print name and major with a collaborator 
+ * Print name and major with a collaborator 
  */
 #include <stdlib.h>
 #include <stdio.h>
