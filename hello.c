@@ -14,7 +14,7 @@
      printf("Hello World, My name is Ngan Nguyen!\n");
      printf("My major is Computer Science.\n");
   
-     //print collab name and major 
+     //print collab's name and major 
      printf("Hello World, My name is Miranda Lopez!\n");
      printf("My major is Computer Science.\n");
      
